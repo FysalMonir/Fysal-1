@@ -24,7 +24,7 @@ font-weight: 900;
 line-height: 95px;
 }
 .banner{
-background-image: url(/images/Banner\ Image.png);
+background-image: url(./images/Banner\ Image.png);
 width: 100%;
 height: 600px;
 justify-content: center;
@@ -137,7 +137,7 @@ top:70px;
 }
   
  .sub_section2{
-    background-image: url(images/Vectorrr.png);
+    background-image: url(.images/Vectorrr.png);
     background-image: fill linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     width: 100%;
     height: 600px;
