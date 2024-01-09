@@ -138,7 +138,7 @@ top:70px;
   
  .sub_section2{
     background-image: url(images/Vectorrr.png);
-    background-image: fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: fill linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     width: 100%;
     height: 600px;
     background-repeat: no-repeat;
@@ -203,9 +203,7 @@ top:70px;
     display: flex;
     padding-top:40px;
 }
-.step_left{
 
-}
 
 .step_left > .offer1{
 color: #F00;
@@ -385,3 +383,65 @@ left:292px;
     top:144px;
     left:1036px;
 }
+
+
+
+
+
+
+
+.gift_text{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+
+.gift_text2{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+
+.gift_plaintext{
+width: 896px;
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+
+.section7{
+width: 1600px;
+height: 7335px;
+background-repeat: no-repeat;
+
+
+
+}
+
+
+/* footer style */
+footer{
+    display:flex;
+}
+
+
+
+
+
+
+
+
+
